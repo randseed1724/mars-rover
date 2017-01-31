@@ -83,7 +83,7 @@ var AJRover = {
         }
     }
 
-}
+};
 
 // ---- object END ----- \\\
 // 1- This function calls the object move (this.move)
